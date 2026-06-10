@@ -10,13 +10,13 @@ A Python-based AI agent powered by Google Gemini with tool-calling capabilities 
 - Configurable prompts and model settings
 
 ## Project Structure
-├── calculator/          # Sample task for the agent
-├── functions/           # Tool definitions callable by the agent
-├── main.py              # Agent loop entry point
-├── call_function.py     # Dispatches Gemini tool calls to Python functions
-├── config.py            # API keys, model config
-├── prompts.py           # System prompt definitions
-└── test_*.py            # Integration tests for each tool
+ calculator/          # Sample task for the agent |
+ functions/           # Tool definitions callable by the agent |
+ main.py              # Agent loop entry point | 
+ call_function.py     # Dispatches Gemini tool calls to Python functions |
+ config.py            # API keys, model config | 
+ prompts.py           # System prompt definitions |
+ test_*.py            # Integration tests for each tool |
 
 ## Setup
 
